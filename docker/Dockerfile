@@ -55,6 +55,8 @@ ENV node_id "default"
 # The ethereum network polling interval  (in milliseconds)
 ENV ethereum_polling_interval ""
 
+ENV fork-base ""
+
 # The location of an optional configuration file for graph-node, as
 # described in ../docs/config.md
 # Using a configuration file is experimental, and the file format may
